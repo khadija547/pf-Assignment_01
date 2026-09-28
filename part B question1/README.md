@@ -6,7 +6,7 @@
 
 **Description:** Hotel processes N guests, Peak / Off-Peak rates (Standard 5000/3000, Deluxe 8000/5000, Suite 12000/8000). If nights > 7, 15% discount. Total revenue calculated.
 
-**Code File:** question 1 (please rename to Q1.c later)
+**Code File:** question 1
 
 **Output Screenshot:**
 ![Output](output1.PNG)
