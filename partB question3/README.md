@@ -6,7 +6,7 @@
 
 ### Files
 - Q3.exe - Executable
-- question3 - Code File
+
 - output3.PNG - Program Output
 - 1.jpeg to 6.jpeg - Documentation Pages
 
