@@ -1,12 +1,14 @@
-# Part B Q3 - Class Result Processing
+# Part B Question 2 - Elevator Simulation
+
 **Name:** KHADIJA | ID: 26K-0027 | Section: BAI-A
+
 ### Output
-![Output](output3.PNG)
-### Flowchart
-![Flowchart](pg1.jpeg)
-### Pseudocode
-![Pseudocode](pg2.jpeg)
-### IPO
-![IPO](pg3.jpeg)
-### PAC
-![PAC](pg4.jpeg)
+![Output](output2.PNG)
+
+### Pages
+
+
+![Page 1](pg1.jpeg)
+![Page 2](pg2.jpeg)
+![Page 3](pg3.jpeg)
+![Page 4](pg4.jpeg)
