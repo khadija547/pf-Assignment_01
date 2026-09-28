@@ -1,8 +1,12 @@
 # Part B Q3 - Class Result Processing
-**Name:** KHADIJA | **ID:** 26K-0027 | **Section:** BAI-A
-**Description:** 5 subjects, average, Distinction/Pass/Fail, Subject Deficiency if <33.
-**Code File:** question 3
-**Output:**
+**Name:** KHADIJA | ID: 26K-0027 | Section: BAI-A
+### Output
 ![Output](output3.PNG)
-![Page 1](pg1.jpeg)
-...
+### Flowchart
+![Flowchart](pg1.jpeg)
+### Pseudocode
+![Pseudocode](pg2.jpeg)
+### IPO
+![IPO](pg3.jpeg)
+### PAC
+![PAC](pg4.jpeg)
